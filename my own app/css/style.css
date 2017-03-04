@@ -1,0 +1,29 @@
+.day {
+	background-image: url(../img/day.jpg);
+	background-size: 100%;
+	color: black;
+}
+.night {
+	background-image: url(../img/night.jpg);
+	background-size: 100%;
+	color: white;
+}
+body {
+	padding: 50px;
+}
+h1{
+	font-size: 30px;
+	padding: 0 20px 0 0;
+}
+input{
+	font-size: 30px;
+	width: 25%;
+	height: 40px;
+}
+
+.weather_img {
+	display: inline-block;
+	width: 100px;
+	height: 150px;
+	float: left;
+}
